@@ -1,0 +1,162 @@
+.new-version {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.new-version .div {
+  background-color: #ffffff;
+  height: 982px;
+  overflow: hidden;
+  position: relative;
+  width: 1512px;
+}
+
+.new-version .overlap-group {
+  height: 477px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1610px;
+}
+
+.new-version .IMG {
+  height: 477px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1512px;
+}
+
+.new-version .buttons {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 18px;
+  left: 1082px;
+  position: absolute;
+  top: 416px;
+}
+
+.new-version .frame {
+  align-items: center;
+  background-color: #e6e6e6;
+  border-radius: 7px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 14px;
+  justify-content: center;
+  overflow: hidden;
+  padding: 11px 24px;
+  position: relative;
+}
+
+.new-version .text-wrapper {
+  -webkit-text-stroke: 1px #000000;
+  color: #000000;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: -1px;
+  margin-top: -2px;
+  position: relative;
+  text-shadow: 0px 4px 4px #00000040;
+  width: fit-content;
+}
+
+.new-version .natalie-bonilla {
+  height: 125px;
+  left: 949px;
+  object-fit: cover;
+  position: absolute;
+  top: 27px;
+  width: 370px;
+}
+
+.new-version .NATALIE-a-BONI {
+  color: #555555;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 25px;
+  font-weight: 400;
+  left: 857px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 173px;
+  width: 753px;
+}
+
+.new-version .text-header {
+  height: 77px;
+  left: 468px;
+  position: absolute;
+  top: 491px;
+  width: 682px;
+}
+
+.new-version .text-wrapper-2 {
+  color: #555555;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 25px;
+  font-weight: 400;
+  left: 247px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 28px;
+  white-space: nowrap;
+}
+
+.new-version .NABBING-high-impact {
+  -webkit-text-stroke: 1px #000000;
+  color: #555555;
+  font-family: "Bebas Neue-Regular", Helvetica;
+  font-size: 40px;
+  font-weight: 400;
+  left: -155px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  text-align: center;
+  top: 106px;
+  width: 922px;
+}
+
+.new-version .span {
+  color: #555555;
+  font-family: "Bebas Neue-Regular", Helvetica;
+  font-size: 40px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 40px;
+}
+
+.new-version .text-wrapper-3 {
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 24px;
+}
+
+.new-version .location-pin {
+  height: 41px;
+  left: 196px;
+  position: absolute;
+  top: 18px;
+  width: 41px;
+}
+
+.new-version .copyright-natalie-a {
+  color: #555555;
+  font-family: "Nunito-Bold", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  left: 660px;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: absolute;
+  top: 920px;
+  white-space: nowrap;
+}
